@@ -1,2 +1,1 @@
-# sushtheme
-Theme for powercord
+<span style="color:blue">some *blue* text</span>.
