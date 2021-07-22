@@ -2,3 +2,4 @@
 A quick powercord theme made by Sush.
 
 # Install 
+updating
