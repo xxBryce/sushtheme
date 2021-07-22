@@ -1,2 +1,4 @@
+# Sush's Theme
+A quick powercord theme made by Sush.
 
-<p>Some Markdown text with <span style="color:blue">some <em>blue</em> text</span>.</p>
+#Install 
