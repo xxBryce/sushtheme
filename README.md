@@ -1,0 +1,2 @@
+# sushtheme
+Theme for powercord
