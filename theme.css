@@ -1,3 +1,4 @@
+@import url('https://xsush.github.io/sushtheme/src/theme.css');
 /*
 Discord: Sush#9999
 Github: xSush
@@ -68,4 +69,3 @@ More light mode fixes and misc help: mackenzie#0173
     --borders-toasts: 8px !important; /*Border shapes for toasts. 25px for circle, 0px for square*/
     --borders-code-editors: 2px !important; /*Border shapes for code editors workspace. 10px for circle, 0px for square*/
  }
-@import url('https://github.com/xSush/sushtheme/blob/034a81e7cd5379c3960168a2705941ad2b1e4d41/src/theme.css');
