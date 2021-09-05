@@ -16,11 +16,40 @@ Some stuff used from: https://github.com/DiscordStyles/DarkMatter/, https://gith
 More light mode fixes and misc help: mackenzie#0173
 */
 @import url('https://Goose-Nest.github.io/GT-RevertRebrand/src/components/wordmark.css');
+@import url('https://corellanstoma.github.io/Menu-Icons/index.css');
+
+
+
+
 :root{
   --background:url('https://i.imgur.com/7SbtKvw.png%27');
   --chat-transp:0.8;
   --sides-transp:0.9;
   --sides-blur:5px
+}
+
+.guildSection-1EoFKd > .flex-1xMQg5 > svg {
+    flex-shrink: 0;
+}
+.compact-T3H92H {
+  --reply-message-margin: 10px;
+}
+.repliedMessage-VokQwo {
+  background-color: var(--background-secondary);
+  border-radius: 5px;
+  padding: 5px 10px;
+  transition: 300ms background-color;
+  width: min-content;
+  max-width: 800px;
+}
+.repliedMessage-VokQwo:hover {
+  background-color: var(--background-modifier-hover);
+}
+.repliedMessage-VokQwo:active {
+  background-color: var(--background-modifier-active);
+}
+.repliedMessage-VokQwo::before {
+  margin-right: var(--reply-message-margin);
 }
 button:hover .fa-sync{
   --deg: 360deg;
@@ -38,6 +67,18 @@ button:hover .fa-forward:hover{
 }
 button:hover .fa-backward:hover{
   transform: translate(-2px);
+}
+.spine--Wla_O {
+  color: rgb(255, 255, 255);
+}
+.popoutBanner-19WKGg {
+    height: 120px;
+}
+.profileBanner-33-uE1 {
+    height: 240px;
+}
+.avatarPositionNormal-aZjAsn {
+    top: 76px;
 }
 button:hover .fa-random{
   background-image: 
